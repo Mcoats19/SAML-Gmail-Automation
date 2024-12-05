@@ -1,0 +1,7 @@
+##  Add sensitive files to .gitignore:
+
+plaintext
+Copy code
+credentials/
+*.pyc
+__pycache__/ ##
